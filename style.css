@@ -1,0 +1,35 @@
+.copywrite_footer{
+    bottom: 0;
+    position: fixed;
+    background-color: lightskyblue;
+    color: lightgoldenrodyellow;
+    font-weight: bolder;
+    line-height: 3;
+    font-size: larger;
+    width: 100%;
+    text-shadow: 5px 5px 5px crimson;
+    text-align: center;
+
+}
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+.header_div{
+    background-color: lightcoral;
+   
+    color-scheme: z ;
+}
+.header_div p{
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    color: lightgoldenrodyellow;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    background-color: lightsalmon;
+    color: lightgoldenrodyellow;
+}
